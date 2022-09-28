@@ -1,0 +1,49 @@
+.body {
+  background-color: hsl(220, 15%, 55%);
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px hsla(228, 45%, 44%, 0.2);
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 200px;
+  padding: 20px;
+}
+
+.card_qr img {
+  max-width: 195px;
+  border-radius: 20px;
+}
+.card_qr {
+  text-align: center;
+}
+.card p {
+  font-family: Outfit, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.desc {
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+}
+
+.attribution {
+  margin-top: 50px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
